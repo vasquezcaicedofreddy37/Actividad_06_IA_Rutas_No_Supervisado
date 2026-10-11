@@ -1,0 +1,601 @@
+origen,destino,franja,dia_tipo,distancia_km,transbordos,incidente,congestion
+NQS Calle 30 Sur,Calle 45,noche,habil,9.75,1,0,baja
+Calle 45,Calle 100,noche,habil,7.34,2,0,baja
+CAD,Av. El Dorado,pico_manana,fin_semana,2.36,3,0,media
+Av. Jiménez,NQS Calle 30 Sur,pico_tarde,fin_semana,6.08,1,0,baja
+Portal Sur,Calle 45,noche,habil,16.15,3,0,media
+CAD,Calle 100,pico_manana,fin_semana,10.92,3,0,media
+Calle 45,Portal Norte,pico_tarde,habil,15.73,1,0,media
+Portal Norte,CAD,pico_tarde,habil,18.39,2,0,alta
+Portal El Dorado,Calle 100,pico_manana,habil,12.34,3,0,media
+Calle 100,CAD,pico_tarde,habil,9.44,2,0,media
+NQS Calle 30 Sur,Portal El Dorado,valle,fin_semana,17.07,0,1,media
+Tercer Milenio,Av. El Dorado,valle,habil,7.78,0,1,media
+Tercer Milenio,Calle 72,pico_tarde,fin_semana,10.67,3,0,media
+Av. Jiménez,Portal El Dorado,pico_manana,habil,17.77,0,0,media
+Portal Sur,Calle 45,noche,fin_semana,19.45,3,1,media
+Av. El Dorado,Portal Sur,valle,habil,10.79,3,0,baja
+Portal El Dorado,Calle 100,noche,habil,9.81,1,0,baja
+Portal El Dorado,CAD,noche,habil,12.91,2,0,baja
+Calle 100,Portal Norte,valle,habil,10.03,2,0,baja
+Portal Sur,Av. El Dorado,valle,fin_semana,12.93,2,0,baja
+Calle 45,Portal Norte,pico_manana,fin_semana,19.82,0,0,media
+NQS Calle 30 Sur,Calle 45,pico_manana,habil,9.06,3,0,media
+Calle 100,Ricaurte,pico_manana,habil,12.86,1,0,media
+Calle 45,Calle 72,noche,habil,4.28,1,0,baja
+Calle 100,Portal El Dorado,pico_manana,habil,10.43,2,0,media
+Av. El Dorado,Tercer Milenio,pico_manana,fin_semana,7.97,3,1,alta
+Av. Jiménez,Calle 45,valle,habil,4.39,3,0,baja
+Tercer Milenio,Portal Norte,pico_tarde,habil,29.28,2,0,alta
+Tercer Milenio,Calle 72,pico_manana,habil,10.34,0,0,media
+Portal El Dorado,Ricaurte,pico_manana,habil,12.36,0,0,media
+NQS Calle 30 Sur,Ricaurte,pico_tarde,fin_semana,7.0,2,0,media
+NQS Calle 30 Sur,Portal Norte,pico_manana,fin_semana,26.1,0,0,media
+Tercer Milenio,Portal El Dorado,valle,habil,15.19,3,0,media
+Tercer Milenio,Portal Sur,noche,fin_semana,12.77,1,0,baja
+Av. Jiménez,Portal Norte,pico_manana,habil,23.21,0,0,media
+Portal Sur,Portal El Dorado,pico_manana,habil,17.14,2,0,alta
+Portal Norte,NQS Calle 30 Sur,pico_tarde,fin_semana,31.59,3,0,media
+Portal Sur,CAD,pico_manana,habil,14.96,3,0,alta
+Portal Norte,Calle 100,pico_manana,habil,9.59,2,0,media
+Av. El Dorado,Calle 72,noche,fin_semana,7.03,2,0,baja
+Tercer Milenio,NQS Calle 30 Sur,pico_tarde,habil,5.03,1,1,alta
+CAD,Calle 45,pico_manana,habil,3.38,1,1,alta
+Tercer Milenio,Calle 100,pico_manana,habil,16.86,0,1,alta
+Calle 72,CAD,noche,habil,7.75,2,0,baja
+Tercer Milenio,Calle 100,valle,habil,14.89,2,0,media
+CAD,Av. El Dorado,pico_manana,habil,2.17,3,0,media
+Calle 100,CAD,valle,fin_semana,9.5,2,0,media
+CAD,Calle 72,pico_tarde,habil,7.09,2,0,media
+NQS Calle 30 Sur,Portal Sur,noche,habil,10.19,2,0,baja
+Portal Sur,Calle 45,noche,fin_semana,14.97,2,0,baja
+Av. El Dorado,Portal Sur,valle,habil,11.95,3,0,baja
+Av. El Dorado,CAD,pico_tarde,habil,2.59,3,0,media
+Portal El Dorado,Calle 72,valle,fin_semana,13.27,1,0,baja
+NQS Calle 30 Sur,Calle 100,noche,fin_semana,20.43,0,0,baja
+Calle 100,CAD,pico_manana,habil,10.53,2,0,media
+Av. El Dorado,Portal Sur,pico_manana,habil,14.8,0,0,media
+Calle 45,Calle 72,pico_manana,habil,4.63,0,0,media
+Av. Jiménez,Ricaurte,noche,habil,1.74,2,0,baja
+Portal Sur,Portal Norte,valle,habil,27.51,2,0,media
+Ricaurte,Portal Sur,pico_manana,habil,14.18,0,0,media
+Portal Norte,Calle 72,valle,habil,11.96,1,0,baja
+NQS Calle 30 Sur,Portal El Dorado,noche,fin_semana,19.07,2,0,baja
+Av. El Dorado,Portal El Dorado,noche,habil,7.89,2,1,media
+Portal Norte,CAD,valle,habil,22.35,0,0,baja
+Portal Norte,Calle 100,valle,habil,9.04,3,0,baja
+Tercer Milenio,CAD,pico_manana,habil,4.12,0,0,media
+Calle 72,Portal Norte,valle,habil,13.18,3,0,baja
+Portal El Dorado,Ricaurte,pico_tarde,habil,14.27,2,0,alta
+Av. Jiménez,Av. El Dorado,pico_manana,habil,6.04,3,0,media
+Av. El Dorado,Tercer Milenio,valle,habil,8.01,2,0,baja
+Calle 100,Ricaurte,valle,habil,13.46,1,0,baja
+Portal El Dorado,Av. Jiménez,pico_manana,habil,17.43,1,0,media
+Av. El Dorado,Portal Sur,pico_manana,fin_semana,12.79,2,0,media
+Calle 45,Calle 100,noche,habil,7.09,2,1,media
+Tercer Milenio,Portal Norte,valle,habil,28.2,1,0,baja
+Av. Jiménez,Calle 45,noche,habil,4.2,2,0,baja
+Calle 100,Portal Norte,noche,habil,8.93,2,0,baja
+Calle 100,NQS Calle 30 Sur,pico_tarde,habil,17.14,0,1,alta
+Av. El Dorado,Calle 72,valle,fin_semana,5.72,0,0,baja
+Calle 45,Ricaurte,valle,fin_semana,4.04,0,0,baja
+Calle 100,Ricaurte,pico_tarde,habil,10.53,2,0,media
+Ricaurte,Calle 45,noche,habil,4.33,2,1,media
+Calle 72,Tercer Milenio,pico_tarde,habil,11.12,0,0,media
+Portal Norte,Av. El Dorado,noche,habil,22.23,3,0,media
+Portal Norte,Calle 100,pico_tarde,fin_semana,9.15,0,1,media
+NQS Calle 30 Sur,Calle 45,valle,habil,10.0,1,0,baja
+Calle 45,Av. Jiménez,pico_tarde,habil,5.03,0,0,media
+Portal El Dorado,Av. El Dorado,noche,fin_semana,9.21,0,1,baja
+Calle 100,CAD,pico_manana,habil,10.39,3,1,alta
+Calle 45,Portal Norte,pico_tarde,habil,19.38,3,0,alta
+Portal Sur,Av. El Dorado,noche,habil,14.45,1,0,baja
+Calle 72,Portal Sur,pico_tarde,fin_semana,21.16,2,0,media
+CAD,Tercer Milenio,noche,habil,4.73,0,0,baja
+Av. El Dorado,Portal Sur,pico_tarde,habil,12.94,1,0,media
+Av. El Dorado,Portal El Dorado,pico_tarde,habil,7.7,0,0,media
+Portal El Dorado,Av. Jiménez,noche,habil,16.78,3,0,media
+Calle 72,Av. Jiménez,valle,fin_semana,7.28,2,1,media
+Calle 45,Av. Jiménez,valle,habil,3.67,0,0,baja
+Av. Jiménez,Portal Sur,valle,habil,15.61,0,1,media
+Av. Jiménez,Calle 100,noche,fin_semana,14.62,1,0,baja
+Calle 100,Calle 45,pico_tarde,habil,8.07,0,0,media
+Portal Norte,CAD,pico_manana,habil,18.15,1,1,alta
+Av. Jiménez,NQS Calle 30 Sur,noche,habil,5.99,2,0,baja
+Calle 72,Tercer Milenio,pico_manana,habil,10.68,0,0,media
+Ricaurte,CAD,pico_manana,habil,2.19,1,0,media
+Calle 72,Tercer Milenio,noche,habil,9.98,1,0,baja
+Ricaurte,Calle 100,pico_manana,habil,10.81,1,0,media
+Ricaurte,Portal Sur,noche,habil,12.99,1,1,media
+Av. El Dorado,Portal Norte,pico_tarde,fin_semana,21.49,3,0,media
+Portal El Dorado,CAD,valle,habil,9.73,3,0,baja
+Portal Norte,Tercer Milenio,pico_tarde,habil,27.63,1,0,media
+Av. Jiménez,Calle 45,pico_manana,habil,3.67,0,0,media
+CAD,Calle 72,pico_tarde,habil,7.11,2,1,alta
+Calle 100,Portal Norte,pico_tarde,fin_semana,8.94,2,0,alta
+Calle 45,Portal Norte,pico_tarde,fin_semana,16.69,3,0,media
+Calle 100,NQS Calle 30 Sur,pico_tarde,fin_semana,19.86,0,0,media
+Calle 100,NQS Calle 30 Sur,valle,habil,16.11,3,0,media
+Portal El Dorado,Calle 100,pico_manana,habil,12.79,3,1,alta
+Portal El Dorado,Calle 100,valle,habil,12.0,0,0,baja
+NQS Calle 30 Sur,Portal Norte,valle,habil,28.52,3,0,media
+Portal Sur,Portal El Dorado,valle,habil,16.98,3,0,media
+CAD,Calle 72,noche,fin_semana,6.47,3,0,baja
+Portal Norte,Tercer Milenio,pico_tarde,habil,21.88,1,0,media
+CAD,Calle 45,valle,fin_semana,4.38,2,0,baja
+CAD,Portal Sur,noche,fin_semana,14.86,2,0,baja
+Calle 100,Portal El Dorado,valle,habil,10.07,0,0,baja
+Portal Norte,Portal Sur,valle,habil,34.78,3,0,media
+NQS Calle 30 Sur,Calle 100,noche,fin_semana,15.95,2,0,baja
+Ricaurte,Portal Sur,pico_manana,habil,13.83,3,0,media
+CAD,Av. Jiménez,noche,habil,3.54,2,0,baja
+Av. Jiménez,Portal Sur,pico_manana,fin_semana,15.85,0,0,media
+Av. Jiménez,Calle 45,pico_manana,habil,4.46,2,0,media
+Tercer Milenio,Av. Jiménez,pico_manana,habil,2.19,2,0,media
+Ricaurte,Calle 100,noche,habil,10.75,3,0,media
+Tercer Milenio,Av. Jiménez,noche,habil,2.02,3,0,baja
+Av. Jiménez,Av. El Dorado,valle,habil,5.79,1,1,media
+Portal Norte,Portal Sur,noche,fin_semana,31.87,3,0,media
+CAD,Calle 72,pico_tarde,habil,7.24,3,0,baja
+Calle 100,Portal El Dorado,pico_tarde,fin_semana,9.92,0,0,baja
+NQS Calle 30 Sur,Tercer Milenio,valle,fin_semana,5.42,1,0,baja
+NQS Calle 30 Sur,Av. El Dorado,pico_manana,fin_semana,8.38,1,0,baja
+Calle 45,Portal El Dorado,pico_manana,habil,11.54,1,1,alta
+Av. El Dorado,Portal Sur,noche,habil,11.26,1,0,baja
+Ricaurte,NQS Calle 30 Sur,pico_manana,fin_semana,7.0,1,0,baja
+Portal Sur,CAD,pico_manana,habil,13.61,0,0,media
+NQS Calle 30 Sur,Ricaurte,pico_manana,habil,6.21,2,0,media
+NQS Calle 30 Sur,Calle 100,valle,habil,15.8,0,0,media
+Portal Sur,CAD,valle,habil,14.64,0,0,baja
+Portal El Dorado,Tercer Milenio,pico_tarde,habil,18.13,1,0,media
+Tercer Milenio,Calle 45,pico_manana,habil,7.18,0,0,media
+NQS Calle 30 Sur,Portal Norte,valle,habil,30.12,3,1,alta
+Av. Jiménez,CAD,noche,habil,4.29,2,0,baja
+Portal Norte,Calle 100,noche,habil,8.97,2,0,baja
+Ricaurte,Portal Sur,pico_manana,habil,12.82,3,1,alta
+Tercer Milenio,NQS Calle 30 Sur,pico_manana,habil,4.12,0,1,media
+Av. El Dorado,NQS Calle 30 Sur,pico_manana,habil,8.06,0,1,alta
+Ricaurte,Av. El Dorado,pico_manana,habil,4.96,1,0,media
+Portal Norte,Calle 100,noche,habil,9.2,2,0,baja
+Tercer Milenio,Portal El Dorado,valle,habil,14.18,0,0,baja
+CAD,Calle 100,pico_manana,habil,8.85,2,0,media
+Ricaurte,Av. Jiménez,pico_tarde,habil,2.02,2,0,media
+Portal El Dorado,Calle 45,noche,habil,15.53,2,0,media
+Ricaurte,CAD,pico_tarde,habil,1.86,3,0,media
+Portal El Dorado,Calle 72,noche,habil,13.49,2,0,baja
+Av. Jiménez,Calle 100,noche,habil,11.35,1,0,baja
+Ricaurte,NQS Calle 30 Sur,pico_tarde,habil,7.58,1,0,alta
+NQS Calle 30 Sur,CAD,pico_manana,habil,6.59,2,1,alta
+NQS Calle 30 Sur,Portal El Dorado,pico_manana,habil,20.93,2,0,alta
+Calle 45,Ricaurte,noche,habil,3.72,2,1,media
+Calle 45,CAD,pico_manana,habil,3.86,3,0,media
+Portal El Dorado,NQS Calle 30 Sur,noche,habil,19.44,2,0,media
+Portal El Dorado,Av. Jiménez,pico_tarde,habil,16.33,2,0,alta
+Portal El Dorado,NQS Calle 30 Sur,pico_tarde,habil,19.16,1,0,media
+Av. El Dorado,Calle 45,pico_tarde,habil,5.26,2,0,media
+Portal Norte,Portal El Dorado,pico_manana,habil,14.1,2,0,alta
+Portal Sur,Calle 100,pico_manana,habil,18.96,0,0,media
+Av. Jiménez,Calle 45,pico_manana,habil,5.11,0,0,media
+CAD,Calle 72,pico_tarde,habil,7.04,2,0,media
+Portal Sur,Av. El Dorado,pico_tarde,habil,12.33,0,0,media
+Tercer Milenio,Calle 72,valle,habil,11.55,2,0,baja
+Calle 100,NQS Calle 30 Sur,noche,habil,19.63,3,1,alta
+Calle 72,Calle 45,noche,habil,4.43,3,0,baja
+Tercer Milenio,Ricaurte,pico_manana,habil,3.11,2,0,media
+Ricaurte,Portal El Dorado,pico_tarde,habil,16.08,0,0,media
+Av. El Dorado,Portal Sur,noche,habil,14.48,3,0,media
+Av. Jiménez,Av. El Dorado,pico_tarde,fin_semana,7.46,1,0,baja
+Av. Jiménez,Calle 72,noche,habil,9.45,1,0,baja
+Tercer Milenio,Av. El Dorado,valle,fin_semana,7.63,1,0,baja
+Ricaurte,Portal El Dorado,pico_tarde,habil,14.4,3,1,alta
+Tercer Milenio,Portal El Dorado,pico_manana,habil,18.69,1,1,alta
+NQS Calle 30 Sur,Tercer Milenio,valle,fin_semana,5.09,3,0,baja
+Av. El Dorado,Portal Norte,pico_tarde,habil,16.83,2,0,alta
+Ricaurte,Av. Jiménez,pico_tarde,habil,2.2,3,1,alta
+Tercer Milenio,Av. Jiménez,pico_tarde,habil,1.95,2,0,media
+NQS Calle 30 Sur,Calle 72,pico_tarde,habil,16.56,2,0,alta
+Portal Sur,Calle 100,pico_tarde,habil,21.45,3,1,alta
+Tercer Milenio,Portal El Dorado,noche,habil,13.84,3,0,baja
+Portal Sur,NQS Calle 30 Sur,valle,habil,8.47,2,0,baja
+Av. Jiménez,NQS Calle 30 Sur,noche,fin_semana,6.61,1,0,baja
+Av. Jiménez,Calle 45,valle,habil,4.69,3,0,baja
+Av. Jiménez,Av. El Dorado,pico_manana,habil,5.54,3,0,media
+Ricaurte,NQS Calle 30 Sur,valle,habil,6.89,1,1,media
+Calle 100,Portal Sur,noche,habil,19.99,0,0,baja
+Ricaurte,Portal El Dorado,pico_tarde,fin_semana,13.37,3,0,media
+Calle 72,Av. Jiménez,pico_manana,habil,8.39,3,0,media
+Portal Sur,NQS Calle 30 Sur,valle,habil,8.51,1,0,baja
+CAD,Calle 100,pico_tarde,habil,11.48,3,0,media
+Tercer Milenio,CAD,pico_tarde,fin_semana,4.4,3,0,media
+Calle 100,Av. El Dorado,pico_manana,habil,9.11,1,0,media
+Tercer Milenio,Portal Sur,noche,habil,12.15,2,0,baja
+Av. El Dorado,Tercer Milenio,pico_manana,habil,6.68,2,0,media
+Portal Norte,NQS Calle 30 Sur,valle,habil,26.76,3,0,media
+Tercer Milenio,Portal Sur,noche,habil,11.89,1,0,baja
+NQS Calle 30 Sur,Portal Norte,pico_manana,habil,23.25,2,1,alta
+Calle 100,Ricaurte,pico_manana,habil,12.17,2,0,media
+Calle 100,Calle 45,pico_tarde,fin_semana,9.36,0,1,media
+Tercer Milenio,Calle 100,pico_manana,habil,14.84,3,1,alta
+Calle 45,CAD,valle,habil,3.32,1,0,baja
+Av. El Dorado,Tercer Milenio,pico_manana,fin_semana,7.35,1,0,baja
+Av. El Dorado,Calle 100,pico_tarde,habil,9.53,2,0,baja
+Av. Jiménez,Ricaurte,pico_manana,habil,2.16,0,0,media
+NQS Calle 30 Sur,Calle 72,valle,habil,16.33,1,0,baja
+Ricaurte,CAD,pico_manana,fin_semana,1.89,2,0,media
+Tercer Milenio,Av. Jiménez,pico_tarde,habil,1.57,2,0,media
+CAD,Ricaurte,valle,habil,2.13,0,0,baja
+Portal Sur,Portal El Dorado,pico_manana,fin_semana,12.88,1,0,baja
+Tercer Milenio,Av. Jiménez,valle,habil,1.78,1,0,baja
+Av. Jiménez,Calle 100,noche,fin_semana,14.35,2,1,media
+Portal Sur,NQS Calle 30 Sur,valle,habil,9.89,1,0,baja
+Portal Norte,Calle 100,valle,fin_semana,8.81,3,0,baja
+Ricaurte,Calle 72,pico_tarde,habil,8.3,2,1,alta
+Portal Norte,Ricaurte,pico_tarde,habil,18.88,2,0,alta
+Portal El Dorado,Calle 72,noche,habil,12.76,2,1,media
+CAD,NQS Calle 30 Sur,pico_tarde,habil,6.19,1,0,media
+Calle 45,NQS Calle 30 Sur,noche,habil,10.99,0,1,media
+Portal El Dorado,NQS Calle 30 Sur,valle,fin_semana,14.73,1,0,baja
+CAD,Calle 72,noche,habil,7.16,3,1,media
+Av. El Dorado,CAD,pico_manana,habil,2.39,0,0,media
+Portal Sur,Av. El Dorado,pico_tarde,habil,10.94,1,0,media
+Portal El Dorado,Calle 72,noche,habil,12.3,0,0,baja
+Calle 100,Calle 45,pico_manana,fin_semana,7.86,1,1,media
+Av. Jiménez,Portal Norte,pico_manana,fin_semana,21.35,0,0,media
+Portal El Dorado,Calle 100,valle,habil,12.93,0,0,baja
+Tercer Milenio,Portal Sur,noche,habil,12.5,1,0,baja
+NQS Calle 30 Sur,Av. Jiménez,pico_manana,habil,6.07,0,0,media
+NQS Calle 30 Sur,Portal Norte,noche,habil,26.18,1,1,media
+Ricaurte,Tercer Milenio,pico_manana,habil,3.24,0,0,baja
+Portal Sur,CAD,pico_manana,habil,14.01,0,0,media
+Portal Norte,Calle 72,pico_manana,habil,12.23,0,0,media
+Av. Jiménez,Calle 72,noche,habil,7.27,1,0,baja
+Calle 45,Av. Jiménez,pico_tarde,fin_semana,4.67,3,0,media
+Calle 100,Portal Sur,pico_manana,habil,21.41,2,1,alta
+Portal El Dorado,Calle 72,noche,habil,12.72,2,0,baja
+Ricaurte,Portal Norte,valle,fin_semana,22.57,2,0,baja
+Portal El Dorado,Calle 100,pico_manana,fin_semana,10.37,1,0,baja
+Av. Jiménez,Ricaurte,pico_manana,habil,2.02,0,0,media
+NQS Calle 30 Sur,Calle 100,pico_manana,habil,18.64,0,0,media
+Tercer Milenio,Portal Sur,pico_tarde,fin_semana,15.33,2,1,alta
+Av. Jiménez,Portal Norte,noche,habil,20.49,2,0,baja
+Portal Norte,Ricaurte,pico_manana,habil,20.34,3,0,alta
+Portal Sur,Portal El Dorado,valle,habil,13.97,3,0,baja
+Portal El Dorado,Calle 72,valle,fin_semana,11.77,2,0,baja
+Portal El Dorado,Tercer Milenio,noche,habil,15.61,0,0,baja
+Portal El Dorado,Ricaurte,pico_tarde,habil,14.4,0,0,media
+Portal Sur,Ricaurte,noche,habil,13.16,3,0,baja
+NQS Calle 30 Sur,Portal El Dorado,pico_tarde,habil,14.96,1,0,media
+Calle 100,Calle 72,noche,fin_semana,4.39,0,0,baja
+Av. El Dorado,Av. Jiménez,noche,habil,7.0,1,0,baja
+Ricaurte,Portal El Dorado,pico_tarde,habil,14.87,2,0,alta
+Calle 45,Av. El Dorado,pico_tarde,habil,4.42,3,0,alta
+Tercer Milenio,Portal Norte,noche,habil,23.93,3,1,alta
+Portal Sur,CAD,pico_manana,habil,10.71,0,1,alta
+Portal El Dorado,Portal Sur,pico_tarde,fin_semana,14.03,0,0,media
+Calle 100,Av. Jiménez,pico_manana,fin_semana,12.19,1,0,baja
+Calle 45,Calle 72,noche,habil,3.9,2,0,baja
+Calle 45,Portal Norte,pico_manana,habil,19.84,1,0,media
+Portal Sur,Portal El Dorado,pico_manana,fin_semana,16.65,0,0,media
+NQS Calle 30 Sur,Av. El Dorado,pico_manana,habil,9.78,1,0,media
+Calle 100,CAD,valle,habil,11.27,2,0,baja
+CAD,Ricaurte,pico_manana,habil,1.87,3,0,media
+Av. El Dorado,Ricaurte,pico_tarde,fin_semana,4.67,2,1,alta
+Ricaurte,Calle 100,valle,habil,10.21,0,1,media
+Ricaurte,Tercer Milenio,pico_manana,fin_semana,3.63,2,0,media
+Calle 100,Portal Sur,pico_manana,habil,25.12,0,1,alta
+Av. Jiménez,Calle 45,valle,habil,4.52,2,0,media
+CAD,Portal El Dorado,pico_tarde,habil,13.96,3,0,media
+NQS Calle 30 Sur,Calle 100,noche,habil,16.82,3,1,alta
+Tercer Milenio,Portal Norte,noche,habil,25.47,3,1,alta
+Calle 45,Av. El Dorado,pico_manana,fin_semana,4.34,2,1,alta
+Av. El Dorado,Tercer Milenio,noche,fin_semana,6.16,0,1,baja
+Av. El Dorado,Calle 100,valle,fin_semana,10.92,3,0,baja
+Calle 100,Portal Norte,pico_manana,habil,9.62,3,0,media
+Av. Jiménez,NQS Calle 30 Sur,pico_manana,habil,5.95,0,0,media
+NQS Calle 30 Sur,CAD,pico_tarde,habil,8.66,3,0,media
+Ricaurte,Tercer Milenio,pico_manana,habil,3.24,0,1,alta
+Calle 72,Tercer Milenio,noche,habil,10.17,2,0,baja
+Portal Norte,Ricaurte,pico_manana,habil,23.61,3,0,alta
+Calle 100,Portal Sur,valle,fin_semana,20.34,1,0,baja
+Calle 100,Tercer Milenio,pico_manana,habil,15.67,0,1,alta
+Ricaurte,Calle 45,pico_tarde,habil,3.37,3,0,alta
+CAD,Calle 45,pico_tarde,habil,3.74,2,0,media
+Portal Sur,Portal El Dorado,pico_tarde,habil,17.09,0,0,media
+Calle 100,Calle 45,noche,habil,9.48,2,0,baja
+Ricaurte,Av. El Dorado,valle,habil,4.72,3,0,baja
+Calle 100,Portal Sur,pico_manana,habil,20.12,1,1,alta
+Portal El Dorado,CAD,noche,habil,12.95,1,0,baja
+Portal Sur,Calle 100,noche,habil,18.29,1,0,baja
+Tercer Milenio,Portal Sur,pico_manana,habil,11.61,2,0,media
+Av. Jiménez,Portal El Dorado,noche,habil,15.26,1,0,baja
+Portal Sur,Av. Jiménez,noche,habil,14.63,0,0,baja
+Portal El Dorado,Av. El Dorado,pico_manana,habil,9.93,0,0,baja
+Portal Norte,Calle 100,valle,habil,11.48,0,0,baja
+Portal Norte,Av. Jiménez,pico_tarde,habil,21.85,3,0,alta
+CAD,Av. El Dorado,pico_tarde,habil,2.58,0,0,media
+Av. Jiménez,Calle 45,pico_manana,habil,4.21,0,0,media
+Av. Jiménez,Ricaurte,noche,habil,2.16,0,0,baja
+Calle 45,Calle 100,noche,habil,6.86,2,0,baja
+Portal El Dorado,Ricaurte,noche,habil,14.25,3,0,media
+Ricaurte,Calle 100,pico_manana,habil,10.7,3,0,media
+NQS Calle 30 Sur,CAD,valle,habil,8.03,3,0,baja
+NQS Calle 30 Sur,Tercer Milenio,pico_tarde,habil,4.33,2,0,media
+Ricaurte,Calle 45,pico_manana,habil,3.25,2,0,media
+Av. Jiménez,Portal Norte,valle,habil,19.76,1,0,baja
+Portal El Dorado,Portal Norte,noche,fin_semana,17.92,2,0,baja
+Tercer Milenio,Av. El Dorado,noche,fin_semana,7.83,0,0,baja
+Portal Norte,Portal El Dorado,pico_manana,habil,16.83,1,0,alta
+Portal El Dorado,Portal Norte,pico_tarde,habil,14.19,0,0,media
+Av. Jiménez,CAD,pico_tarde,fin_semana,3.8,1,0,baja
+Portal El Dorado,Calle 72,pico_tarde,habil,10.29,0,0,media
+Calle 45,Calle 100,valle,habil,8.39,2,0,baja
+Portal Norte,Tercer Milenio,pico_tarde,habil,25.43,1,0,media
+Portal Norte,Portal El Dorado,valle,habil,17.44,2,0,alta
+CAD,Calle 45,valle,fin_semana,3.89,1,0,baja
+CAD,Tercer Milenio,pico_tarde,habil,4.15,2,0,media
+Calle 100,Portal El Dorado,noche,habil,12.68,2,1,media
+Av. El Dorado,Tercer Milenio,valle,fin_semana,8.15,2,1,media
+Portal Sur,Calle 100,valle,habil,24.3,2,0,media
+Calle 72,Av. Jiménez,pico_manana,habil,9.83,0,0,media
+Av. El Dorado,NQS Calle 30 Sur,pico_tarde,habil,9.72,1,1,alta
+Calle 45,NQS Calle 30 Sur,valle,habil,9.74,1,0,baja
+Calle 72,Tercer Milenio,pico_manana,habil,11.59,3,0,media
+Portal El Dorado,Calle 72,pico_manana,habil,10.84,1,0,media
+Av. El Dorado,Calle 100,pico_manana,fin_semana,10.17,3,0,media
+Calle 72,Calle 45,noche,fin_semana,4.3,1,0,baja
+Portal El Dorado,CAD,pico_manana,habil,12.0,1,0,media
+Calle 100,CAD,pico_manana,habil,11.18,1,0,media
+Ricaurte,Calle 100,noche,habil,12.05,0,0,baja
+Calle 45,Av. Jiménez,noche,habil,4.12,2,0,baja
+Ricaurte,Av. Jiménez,pico_tarde,habil,1.98,3,0,media
+Portal El Dorado,Portal Sur,pico_tarde,fin_semana,17.25,0,0,media
+CAD,Calle 100,pico_manana,habil,9.74,1,1,alta
+Calle 100,Av. El Dorado,pico_tarde,habil,10.83,3,0,media
+Calle 45,Av. El Dorado,noche,fin_semana,5.25,1,0,baja
+Calle 45,Portal Norte,noche,habil,21.72,0,0,baja
+Portal Norte,Portal El Dorado,pico_manana,fin_semana,17.77,1,0,baja
+Calle 72,Portal El Dorado,valle,habil,11.58,3,0,media
+Ricaurte,Calle 72,pico_manana,habil,7.85,3,0,media
+Ricaurte,Calle 100,noche,habil,13.26,2,1,media
+Portal Sur,NQS Calle 30 Sur,pico_tarde,habil,8.36,0,0,media
+Ricaurte,NQS Calle 30 Sur,noche,habil,6.46,1,0,baja
+Calle 45,Portal El Dorado,pico_tarde,habil,13.49,2,0,media
+Av. Jiménez,CAD,noche,habil,3.62,2,0,baja
+Calle 45,NQS Calle 30 Sur,valle,fin_semana,11.02,3,0,baja
+CAD,Calle 100,valle,habil,8.75,0,0,baja
+Portal Norte,Calle 100,noche,habil,8.93,1,0,baja
+Portal El Dorado,CAD,pico_tarde,fin_semana,12.26,0,0,baja
+Portal Sur,Av. El Dorado,noche,habil,14.88,3,0,media
+Calle 45,Portal El Dorado,pico_manana,habil,11.96,1,0,media
+Calle 72,Calle 45,noche,fin_semana,4.47,0,1,baja
+Calle 72,Portal Sur,valle,habil,18.37,1,0,baja
+Av. Jiménez,Av. El Dorado,noche,habil,6.28,3,1,media
+Av. Jiménez,Portal Sur,noche,habil,14.46,3,0,media
+Av. El Dorado,Calle 45,pico_manana,fin_semana,5.31,0,0,baja
+CAD,Ricaurte,pico_tarde,fin_semana,1.83,2,0,media
+Portal Norte,Av. El Dorado,noche,habil,18.38,0,0,baja
+Portal Sur,Ricaurte,pico_manana,habil,11.59,3,0,media
+Av. El Dorado,CAD,noche,habil,2.79,3,0,baja
+Portal Sur,Calle 72,valle,habil,21.53,1,0,baja
+Ricaurte,Av. Jiménez,valle,fin_semana,2.28,0,0,baja
+Calle 72,Calle 100,noche,fin_semana,4.39,1,1,baja
+Av. El Dorado,Calle 72,pico_manana,habil,6.48,1,0,media
+Av. El Dorado,Av. Jiménez,pico_manana,habil,6.48,0,0,media
+CAD,Ricaurte,pico_tarde,habil,2.03,2,0,media
+Portal Norte,Portal Sur,valle,habil,33.16,1,0,baja
+Tercer Milenio,Calle 72,pico_manana,fin_semana,10.42,1,1,alta
+CAD,Av. Jiménez,pico_tarde,fin_semana,3.36,3,0,media
+Portal Norte,Calle 72,valle,fin_semana,13.72,2,0,baja
+Portal El Dorado,Calle 45,pico_tarde,habil,11.34,3,0,media
+Calle 72,NQS Calle 30 Sur,noche,habil,12.2,2,0,baja
+Av. Jiménez,Calle 100,noche,habil,14.21,1,0,baja
+NQS Calle 30 Sur,Portal Sur,valle,fin_semana,9.59,0,0,baja
+Calle 45,Calle 72,noche,habil,4.81,1,0,baja
+Ricaurte,Calle 72,valle,habil,7.53,3,0,baja
+CAD,Tercer Milenio,valle,fin_semana,4.51,0,0,baja
+Calle 72,Portal Sur,pico_manana,fin_semana,19.56,3,0,media
+Av. El Dorado,Av. Jiménez,pico_manana,habil,6.92,3,0,media
+Calle 72,Portal El Dorado,pico_manana,habil,13.41,0,1,alta
+Tercer Milenio,NQS Calle 30 Sur,valle,habil,5.47,1,0,baja
+Calle 100,Av. Jiménez,valle,habil,11.67,2,0,baja
+Ricaurte,Calle 100,valle,fin_semana,10.69,2,0,baja
+NQS Calle 30 Sur,Portal El Dorado,pico_tarde,habil,20.57,3,0,alta
+Portal Norte,Av. El Dorado,pico_tarde,habil,18.89,0,0,media
+Tercer Milenio,Ricaurte,valle,fin_semana,2.75,0,0,baja
+Ricaurte,Tercer Milenio,valle,fin_semana,3.65,3,0,baja
+Portal Sur,Portal Norte,noche,habil,31.49,3,0,media
+Portal Sur,Av. Jiménez,noche,habil,14.13,3,0,media
+Av. El Dorado,Portal Norte,noche,habil,19.32,1,0,baja
+Calle 72,Portal Norte,noche,habil,15.57,2,0,media
+Av. Jiménez,Calle 100,noche,habil,14.63,1,0,media
+Av. Jiménez,Portal Sur,pico_manana,habil,17.06,2,0,alta
+Portal Norte,Calle 100,noche,habil,9.07,0,0,baja
+Av. El Dorado,Portal Sur,pico_manana,habil,13.94,0,1,alta
+Portal El Dorado,Portal Norte,valle,fin_semana,17.99,2,1,media
+Portal El Dorado,Calle 45,pico_manana,fin_semana,10.83,1,1,media
+Portal Norte,Calle 100,pico_manana,fin_semana,9.4,3,1,alta
+Portal El Dorado,Av. Jiménez,valle,habil,17.21,1,0,baja
+Calle 100,NQS Calle 30 Sur,valle,habil,15.06,1,0,baja
+Calle 100,Av. El Dorado,pico_tarde,habil,9.24,3,0,media
+CAD,Portal Sur,noche,fin_semana,12.56,1,0,baja
+Portal El Dorado,CAD,valle,fin_semana,13.68,0,0,baja
+Portal Sur,Av. El Dorado,pico_tarde,habil,12.86,2,0,media
+Calle 72,Portal El Dorado,pico_tarde,habil,13.36,3,0,media
+NQS Calle 30 Sur,CAD,noche,habil,7.21,1,0,baja
+Calle 72,Calle 100,pico_manana,habil,4.55,0,0,alta
+Calle 100,Calle 72,pico_tarde,habil,3.57,0,0,media
+Calle 72,Av. El Dorado,pico_manana,habil,6.66,2,0,media
+CAD,Calle 72,noche,habil,5.72,3,0,baja
+NQS Calle 30 Sur,Av. Jiménez,valle,habil,5.81,3,0,baja
+Av. El Dorado,Portal Sur,noche,habil,10.53,3,0,baja
+Av. El Dorado,Calle 45,pico_tarde,habil,4.09,1,0,media
+Ricaurte,Calle 45,pico_tarde,habil,4.07,1,0,media
+Calle 100,Portal Sur,pico_tarde,fin_semana,25.52,0,0,media
+Portal Norte,Av. Jiménez,noche,habil,18.87,3,0,media
+Calle 72,Calle 45,noche,habil,3.95,1,0,baja
+Tercer Milenio,Portal Sur,pico_tarde,fin_semana,15.92,1,0,media
+Portal Sur,Portal El Dorado,pico_tarde,habil,15.19,3,0,alta
+Calle 45,Calle 100,noche,habil,9.2,0,0,baja
+Ricaurte,NQS Calle 30 Sur,valle,habil,6.84,3,0,baja
+Av. El Dorado,Portal Sur,valle,fin_semana,11.05,0,0,baja
+Calle 100,Av. Jiménez,valle,habil,10.55,3,0,baja
+Av. El Dorado,Portal Norte,noche,habil,21.69,3,0,media
+Calle 72,Portal Sur,pico_tarde,habil,20.95,3,0,media
+Calle 72,NQS Calle 30 Sur,noche,habil,15.34,3,0,media
+Portal Sur,Portal Norte,pico_manana,habil,30.69,3,0,alta
+Ricaurte,Calle 45,noche,habil,4.22,3,0,baja
+Ricaurte,Portal Sur,pico_manana,fin_semana,11.85,2,0,media
+Calle 45,Ricaurte,pico_manana,fin_semana,4.42,2,0,media
+Calle 100,Tercer Milenio,pico_tarde,habil,15.77,3,0,alta
+Calle 45,Portal El Dorado,pico_tarde,habil,13.38,0,0,media
+CAD,Ricaurte,pico_manana,fin_semana,1.57,2,0,media
+Calle 72,Av. Jiménez,pico_manana,habil,8.75,3,0,media
+Tercer Milenio,Portal El Dorado,noche,habil,14.29,2,0,media
+Portal El Dorado,Av. Jiménez,noche,fin_semana,18.1,3,0,baja
+Av. Jiménez,Portal Sur,noche,habil,13.69,0,0,baja
+Calle 45,Av. Jiménez,pico_manana,habil,3.85,3,0,media
+CAD,Portal Sur,pico_tarde,fin_semana,14.23,1,0,media
+NQS Calle 30 Sur,Tercer Milenio,pico_tarde,habil,4.27,0,0,media
+Ricaurte,Av. El Dorado,pico_manana,habil,4.39,0,0,media
+Tercer Milenio,CAD,noche,fin_semana,4.72,0,0,baja
+Portal Norte,Calle 100,pico_manana,habil,9.51,0,0,media
+Portal Norte,CAD,pico_tarde,habil,22.64,0,0,media
+Portal El Dorado,NQS Calle 30 Sur,pico_tarde,habil,15.43,3,0,alta
+Portal Sur,Calle 72,noche,habil,17.08,1,0,baja
+Portal El Dorado,Av. Jiménez,valle,habil,16.3,0,0,baja
+Av. El Dorado,CAD,valle,habil,2.39,2,0,baja
+Av. El Dorado,NQS Calle 30 Sur,noche,habil,8.59,0,0,baja
+Calle 45,Portal El Dorado,noche,habil,14.45,1,0,baja
+Portal El Dorado,Av. El Dorado,noche,fin_semana,8.64,0,0,baja
+Calle 100,Tercer Milenio,valle,habil,16.93,3,0,media
+Portal Norte,Calle 100,noche,fin_semana,12.38,3,0,baja
+Portal El Dorado,Portal Norte,noche,habil,18.11,1,0,baja
+Portal Sur,Av. El Dorado,pico_manana,habil,12.2,3,0,media
+Ricaurte,Portal Sur,noche,habil,11.64,0,0,media
+Ricaurte,Calle 72,noche,habil,6.86,1,0,baja
+Portal Norte,Calle 72,pico_manana,habil,17.12,2,0,alta
+Calle 45,Ricaurte,noche,fin_semana,4.2,1,0,baja
+NQS Calle 30 Sur,Portal El Dorado,pico_manana,habil,16.0,1,0,baja
+CAD,Calle 45,pico_manana,habil,3.97,0,1,alta
+CAD,Calle 72,pico_tarde,fin_semana,7.73,0,0,baja
+Portal Sur,Av. Jiménez,noche,habil,16.33,0,0,baja
+NQS Calle 30 Sur,Portal Norte,pico_tarde,fin_semana,28.76,0,0,media
+Portal El Dorado,Tercer Milenio,valle,fin_semana,16.85,3,0,baja
+Portal Norte,Tercer Milenio,pico_tarde,habil,20.42,3,1,alta
+Calle 72,Av. El Dorado,valle,fin_semana,7.15,0,0,baja
+Portal El Dorado,NQS Calle 30 Sur,pico_tarde,habil,16.85,1,1,alta
+NQS Calle 30 Sur,Av. Jiménez,noche,fin_semana,6.62,2,1,media
+Tercer Milenio,Ricaurte,pico_tarde,habil,3.2,2,1,alta
+Av. Jiménez,Calle 45,pico_manana,habil,5.0,0,0,media
+Calle 45,Av. El Dorado,pico_tarde,habil,4.93,3,0,media
+Av. Jiménez,Tercer Milenio,pico_manana,habil,1.59,3,0,media
+Av. El Dorado,Portal El Dorado,noche,habil,10.09,3,0,baja
+Calle 45,Calle 100,pico_tarde,fin_semana,7.32,2,0,media
+Calle 72,Tercer Milenio,pico_tarde,fin_semana,10.68,0,0,baja
+Portal Sur,Ricaurte,noche,habil,14.3,3,1,alta
+NQS Calle 30 Sur,Portal Norte,noche,habil,29.55,0,0,baja
+Av. Jiménez,Av. El Dorado,pico_tarde,habil,5.61,2,0,media
+Calle 72,Av. El Dorado,valle,habil,5.31,0,1,media
+Portal Sur,Calle 45,noche,habil,15.82,1,0,baja
+Portal Sur,Calle 100,pico_manana,habil,19.55,1,1,alta
+Portal Sur,Portal Norte,pico_tarde,habil,29.56,2,0,alta
+Ricaurte,Calle 45,pico_manana,fin_semana,4.15,0,1,media
+Calle 100,Av. El Dorado,pico_manana,fin_semana,10.66,2,0,alta
+NQS Calle 30 Sur,Av. El Dorado,pico_manana,habil,8.04,3,1,alta
+Av. Jiménez,CAD,valle,fin_semana,4.25,0,0,baja
+Tercer Milenio,Ricaurte,noche,fin_semana,3.31,3,0,baja
+Tercer Milenio,Av. El Dorado,pico_manana,habil,8.5,0,0,media
+Av. Jiménez,Portal Norte,valle,habil,22.72,1,1,media
+Av. El Dorado,Portal Norte,valle,habil,18.62,1,0,baja
+CAD,Calle 100,pico_manana,habil,10.91,0,0,media
+NQS Calle 30 Sur,Portal Norte,noche,habil,30.08,1,0,baja
+CAD,Calle 100,valle,habil,9.66,3,1,media
+Portal El Dorado,Portal Norte,pico_tarde,habil,15.54,1,0,media
+Tercer Milenio,Av. El Dorado,pico_tarde,habil,8.63,0,0,media
+Calle 72,Av. El Dorado,valle,fin_semana,5.44,3,0,baja
+CAD,Calle 72,pico_tarde,habil,6.64,2,0,media
+Portal Sur,Av. Jiménez,pico_tarde,fin_semana,15.93,1,1,alta
+NQS Calle 30 Sur,Portal Norte,pico_manana,habil,32.21,2,0,alta
+Calle 45,Av. El Dorado,pico_manana,habil,5.04,1,0,media
+NQS Calle 30 Sur,Calle 45,pico_tarde,habil,12.0,3,1,alta
+CAD,Av. El Dorado,valle,habil,2.02,0,0,baja
+Calle 100,Calle 45,valle,fin_semana,7.19,3,0,baja
+CAD,NQS Calle 30 Sur,valle,habil,7.68,0,0,baja
+Av. El Dorado,Av. Jiménez,noche,fin_semana,6.09,0,0,baja
+Ricaurte,Calle 72,pico_manana,habil,6.65,2,0,media
+Calle 45,Tercer Milenio,pico_manana,habil,6.45,1,0,media
+Av. El Dorado,Portal Sur,pico_tarde,fin_semana,14.24,0,1,alta
+Portal Sur,Ricaurte,noche,habil,10.98,1,0,baja
+Portal Norte,Av. El Dorado,valle,habil,18.84,0,0,baja
+Ricaurte,Tercer Milenio,valle,habil,2.91,3,1,media
+Av. Jiménez,Portal El Dorado,pico_tarde,fin_semana,13.07,1,0,baja
+Calle 72,Calle 45,valle,habil,4.72,3,0,baja
+Tercer Milenio,Portal El Dorado,noche,fin_semana,14.94,1,0,baja
+Portal Norte,Tercer Milenio,pico_tarde,habil,22.96,3,1,alta
+Portal Sur,Calle 45,noche,habil,18.77,0,0,media
+Calle 72,Portal Norte,pico_tarde,habil,12.48,3,1,alta
+Av. Jiménez,Portal El Dorado,valle,habil,16.04,2,1,alta
+Portal El Dorado,Portal Norte,pico_manana,fin_semana,16.64,2,0,media
+CAD,Calle 72,pico_manana,habil,7.13,0,1,alta
+Portal Norte,CAD,pico_tarde,fin_semana,21.95,2,0,media
+Portal Norte,Portal Sur,valle,habil,26.78,1,0,baja
+Av. El Dorado,Portal Norte,pico_manana,fin_semana,21.77,0,0,media
+Av. El Dorado,Calle 72,noche,habil,5.7,1,0,baja
+Portal Sur,Ricaurte,noche,fin_semana,12.02,1,1,baja
+Portal Norte,Av. El Dorado,pico_tarde,habil,19.31,1,0,media
+Portal Norte,Calle 72,pico_tarde,habil,16.94,2,0,alta
+Av. El Dorado,Av. Jiménez,pico_tarde,habil,7.05,1,0,media
+Calle 100,NQS Calle 30 Sur,pico_manana,habil,16.38,1,0,media
+CAD,Av. El Dorado,valle,habil,2.23,2,0,baja
+Portal Sur,Calle 45,valle,habil,18.3,3,0,media
+Portal Norte,Av. Jiménez,pico_tarde,habil,18.82,0,0,media
+Tercer Milenio,NQS Calle 30 Sur,pico_tarde,habil,5.03,1,1,alta
+Tercer Milenio,Calle 100,pico_manana,habil,12.03,0,0,media
+CAD,Calle 100,pico_manana,habil,8.91,2,0,media
+Av. Jiménez,Calle 45,pico_manana,habil,4.47,0,0,media
+Ricaurte,Portal Sur,pico_tarde,habil,14.64,0,0,media
+Portal Sur,Portal Norte,noche,fin_semana,29.28,0,0,baja
+Calle 45,Calle 72,noche,habil,4.14,1,0,baja
+Calle 45,Calle 100,noche,fin_semana,7.86,1,0,baja
+Ricaurte,Portal Norte,noche,habil,21.12,2,0,media
+Calle 100,Av. El Dorado,pico_manana,habil,10.55,3,0,media
+CAD,Av. Jiménez,pico_manana,habil,3.23,3,0,media
+CAD,Calle 72,noche,habil,7.15,3,0,baja
+Calle 45,NQS Calle 30 Sur,noche,fin_semana,8.62,0,0,baja
+Ricaurte,CAD,valle,fin_semana,2.14,3,0,media
+Calle 72,Av. Jiménez,noche,habil,9.25,1,0,baja
+Av. Jiménez,Portal El Dorado,noche,fin_semana,18.04,0,0,baja
+Portal Sur,Av. Jiménez,pico_manana,habil,13.16,0,0,media
+NQS Calle 30 Sur,CAD,noche,fin_semana,6.41,2,0,baja
+Portal El Dorado,Calle 72,valle,habil,12.76,2,1,media
+Portal Sur,Portal Norte,noche,habil,28.0,1,0,baja
+Calle 100,Portal El Dorado,pico_manana,habil,9.93,2,1,alta
+Ricaurte,Calle 45,noche,fin_semana,4.45,0,0,baja
+Portal Norte,Av. Jiménez,valle,habil,21.71,0,1,media
+Calle 45,Av. El Dorado,pico_tarde,habil,4.42,1,0,media
+Calle 100,Ricaurte,pico_tarde,habil,10.59,0,0,media
+Calle 45,Av. El Dorado,valle,habil,4.58,1,0,baja
+Portal El Dorado,Tercer Milenio,noche,habil,16.38,3,0,media
+CAD,Calle 45,pico_tarde,habil,4.26,2,0,media
+NQS Calle 30 Sur,Portal Sur,pico_manana,fin_semana,11.12,2,0,media
+Calle 72,Portal Norte,noche,habil,14.03,2,1,alta
+Calle 72,CAD,valle,fin_semana,7.69,0,0,baja
+Portal Norte,Ricaurte,noche,habil,20.81,0,0,baja
+Portal El Dorado,Portal Norte,valle,habil,16.68,0,0,baja
+NQS Calle 30 Sur,Av. El Dorado,noche,fin_semana,9.63,0,1,baja
+Av. Jiménez,CAD,pico_tarde,habil,4.17,1,0,media
+Calle 45,Portal Sur,valle,habil,18.0,3,0,media
+Portal Norte,Ricaurte,noche,habil,17.98,3,0,media
+Tercer Milenio,CAD,pico_manana,habil,5.01,1,0,media
+Tercer Milenio,NQS Calle 30 Sur,pico_manana,habil,5.27,1,0,media
+Av. Jiménez,CAD,valle,fin_semana,3.5,3,0,baja
+NQS Calle 30 Sur,Av. El Dorado,valle,habil,8.42,2,0,baja
+Tercer Milenio,Av. Jiménez,noche,habil,1.61,3,0,baja
+Av. El Dorado,Calle 100,pico_tarde,habil,7.6,1,0,media
+Tercer Milenio,Calle 100,pico_tarde,habil,14.37,1,0,alta
+Portal Norte,Tercer Milenio,noche,habil,28.66,3,0,media
+Ricaurte,Calle 45,valle,habil,3.59,0,1,media
+CAD,Portal Sur,pico_tarde,habil,12.51,1,0,baja
+CAD,Portal Sur,pico_manana,fin_semana,10.81,1,1,media
+Calle 72,Portal Norte,valle,habil,14.65,1,0,baja
+Ricaurte,Calle 72,pico_tarde,habil,7.41,3,0,media

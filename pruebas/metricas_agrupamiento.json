@@ -1,0 +1,53 @@
+{
+  "total_registros": 600,
+  "variables_modelo": [
+    "distancia_km",
+    "transbordos",
+    "incidente",
+    "franja_noche",
+    "franja_pico_manana",
+    "franja_pico_tarde",
+    "franja_valle",
+    "dia_tipo_fin_semana",
+    "dia_tipo_habil"
+  ],
+  "k_seleccionado": 6,
+  "comparacion_k": [
+    {
+      "k": 2,
+      "silhouette": 0.2754,
+      "inercia": 4191.872
+    },
+    {
+      "k": 3,
+      "silhouette": 0.2308,
+      "inercia": 3590.05
+    },
+    {
+      "k": 4,
+      "silhouette": 0.3042,
+      "inercia": 2938.012
+    },
+    {
+      "k": 5,
+      "silhouette": 0.3696,
+      "inercia": 2372.434
+    },
+    {
+      "k": 6,
+      "silhouette": 0.3984,
+      "inercia": 2149.265
+    }
+  ],
+  "silhouette_final": 0.3984,
+  "davies_bouldin": 1.1751,
+  "tamanos_grupos": {
+    "0": 129,
+    "1": 107,
+    "2": 125,
+    "3": 110,
+    "4": 38,
+    "5": 91
+  },
+  "nota": "Agrupaciones exploratorias de datos sintéticos; no equivalen a categorías reales de congestión."
+}

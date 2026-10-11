@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sistema Inteligente de Rutas</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header>
+  <div><span class="eyebrow">INTELIGENCIA ARTIFICIAL · ACTIVIDAD 3</span>
+  <h1>Sistema inteligente de rutas</h1>
+  <p>Base de conocimiento + reglas lógicas + búsqueda heurística A*</p></div>
+  <div class="status"><span></span> Backend conectado</div>
+</header>
+
+<main>
+<section class="panel controls">
+ <div>
+  <label>Estación de origen</label><select id="origen"></select>
+ </div>
+ <button id="swap" title="Intercambiar">⇄</button>
+ <div>
+  <label>Estación de destino</label><select id="destino"></select>
+ </div>
+ <button class="primary" id="buscar">Calcular mejor ruta</button>
+</section>
+
+<section class="grid">
+ <article class="panel">
+  <div class="title"><div><small>RESULTADO</small><h2>Ruta seleccionada</h2></div><div id="costo" class="pill">—</div></div>
+  <div id="ruta" class="route empty">Selecciona origen y destino para iniciar.</div>
+  <div id="tramos"></div>
+ </article>
+ <article class="panel">
+  <small>BASE DE CONOCIMIENTO</small><h2>¿Qué sabe el sistema?</h2>
+  <div class="stats"><div><b id="numEst">0</b><span>estaciones</span></div><div><b id="numCon">0</b><span>conexiones</span></div><div><b>5</b><span>reglas</span></div></div>
+  <p class="muted">Los nodos son estaciones y las conexiones son hechos. Las reglas determinan sucesores, actualización de costos y condición de llegada.</p>
+ </article>
+</section>
+
+<section class="panel">
+ <div class="title"><div><small>PROCESO DEL BACKEND</small><h2>Así razona A*</h2></div><span class="formula">f(n) = g(n) + h(n)</span></div>
+ <p class="muted">g = costo acumulado · h = estimación geográfica al destino · f = prioridad de exploración</p>
+ <div class="tablewrap"><table><thead><tr><th>Paso</th><th>Estación evaluada</th><th>g(n)</th><th>h(n)</th><th>f(n)</th><th>Regla aplicada</th></tr></thead><tbody id="proceso"><tr><td colspan="6">Aún no se ha ejecutado una búsqueda.</td></tr></tbody></table></div>
+</section>
+
+<section class="panel">
+ <small>ARQUITECTURA</small><h2>Flujo Frontend → Backend</h2>
+ <div class="flow"><div>1<br><b>Usuario</b><span>Selecciona A y B</span></div><i>→</i><div>2<br><b>Frontend</b><span>POST /api/ruta</span></div><i>→</i><div>3<br><b>Flask</b><span>Valida solicitud</span></div><i>→</i><div>4<br><b>A*</b><span>Evalúa reglas</span></div><i>→</i><div>5<br><b>JSON</b><span>Retorna resultado</span></div></div>
+</section>
+</main>
+<footer>Prototipo académico · Red simplificada · No representa tiempos reales de TransMilenio</footer>
+<script src="/static/app.js"></script>
+</body></html>
